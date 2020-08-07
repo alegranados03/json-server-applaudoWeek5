@@ -1,0 +1,422 @@
+{
+  "burgers": [
+    {
+      "id": 5449361,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 2,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 1,
+          "_subtotal": 0.55
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 0,
+          "_subtotal": 0
+        }
+      ],
+      "_ingredientsOrder": [
+        "tomato",
+        "salad",
+        "salad"
+      ],
+      "_total": 2.05
+    },
+    {
+      "id": 5461055,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 2,
+          "_subtotal": 1
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 2,
+          "_subtotal": 1.1
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 0,
+          "_subtotal": 0
+        }
+      ],
+      "_ingredientsOrder": [
+        "tomato",
+        "tomato",
+        "cheese",
+        "cheese"
+      ],
+      "_total": 3.1
+    },
+    {
+      "id": 5475583,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 2,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 1,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 2,
+          "_subtotal": 1.1
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 2,
+          "_subtotal": 1.2
+        }
+      ],
+      "_ingredientsOrder": [
+        "bacon",
+        "bacon",
+        "salad",
+        "salad",
+        "cheese",
+        "tomato",
+        "tomato"
+      ],
+      "_total": 4.3
+    },
+    {
+      "id": 5508063,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 2,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 0,
+          "_subtotal": 0
+        }
+      ],
+      "_ingredientsOrder": [
+        "salad",
+        "salad"
+      ],
+      "_total": 1.5
+    },
+    {
+      "id": 5553663,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 1,
+          "_subtotal": 0.25
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 1,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 1,
+          "_subtotal": 0.55
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 1,
+          "_subtotal": 1.5
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 1,
+          "_subtotal": 0.6
+        }
+      ],
+      "_ingredientsOrder": [
+        "bacon",
+        "meat",
+        "tomato",
+        "cheese",
+        "salad"
+      ],
+      "_total": 4.4
+    },
+    {
+      "id": 2833000,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 1,
+          "_subtotal": 0.25
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 1,
+          "_subtotal": 0.55
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 1,
+          "_subtotal": 1.5
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 0,
+          "_subtotal": 0
+        }
+      ],
+      "_ingredientsOrder": [
+        "meat",
+        "tomato",
+        "salad"
+      ],
+      "_total": 3.3
+    },
+    {
+      "id": 6663663,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 1,
+          "_subtotal": 0.25
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 1,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 1,
+          "_subtotal": 0.55
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 1,
+          "_subtotal": 1.5
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 1,
+          "_subtotal": 0.6
+        }
+      ],
+      "_ingredientsOrder": [
+        "bacon",
+        "meat",
+        "tomato",
+        "cheese",
+        "salad"
+      ],
+      "_total": 4.4
+    },
+    {
+      "id": 7643673,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 2,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 2,
+          "_subtotal": 1
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 2,
+          "_subtotal": 3
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 0,
+          "_subtotal": 0
+        }
+      ],
+      "_ingredientsOrder": [
+        "meat",
+        "meat",
+        "cheese",
+        "cheese",
+        "salad",
+        "salad"
+      ],
+      "_total": 5.5
+    },
+    {
+      "id": 7756258,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 2,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 2,
+          "_subtotal": 1
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 2,
+          "_subtotal": 1.1
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 2,
+          "_subtotal": 3
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 2,
+          "_subtotal": 1.2
+        }
+      ],
+      "_ingredientsOrder": [
+        "salad",
+        "salad",
+        "cheese",
+        "cheese",
+        "tomato",
+        "tomato",
+        "meat",
+        "meat",
+        "bacon",
+        "bacon"
+      ],
+      "_total": 7.8
+    },
+    {
+      "id": 1341859,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 0,
+          "_subtotal": 0
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 2,
+          "_subtotal": 1.1
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 1,
+          "_subtotal": 1.5
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 2,
+          "_subtotal": 1.2
+        }
+      ],
+      "_ingredientsOrder": [
+        "bacon",
+        "bacon",
+        "meat",
+        "tomato",
+        "tomato"
+      ],
+      "_total": 4.8
+    },
+    {
+      "id": 4585494,
+      "_details": [
+        {
+          "_ingredientName": "salad",
+          "_qty": 1,
+          "_subtotal": 0.25
+        },
+        {
+          "_ingredientName": "cheese",
+          "_qty": 1,
+          "_subtotal": 0.5
+        },
+        {
+          "_ingredientName": "tomato",
+          "_qty": 1,
+          "_subtotal": 0.55
+        },
+        {
+          "_ingredientName": "meat",
+          "_qty": 2,
+          "_subtotal": 3
+        },
+        {
+          "_ingredientName": "bacon",
+          "_qty": 0,
+          "_subtotal": 0
+        }
+      ],
+      "_ingredientsOrder": [
+        "meat",
+        "meat",
+        "tomato",
+        "cheese",
+        "salad"
+      ],
+      "_total": 5.3
+    }
+  ]
+}

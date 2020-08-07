@@ -1,0 +1,39 @@
+{
+    "_id": 1596664266757,
+    "_details": [
+        {
+            "_ingredientName": "salad",
+            "_qty": 2,
+            "_subtotal": 0.5
+        },
+        {
+            "_ingredientName": "cheese",
+            "_qty": 1,
+            "_subtotal": 0.5
+        },
+        {
+            "_ingredientName": "tomato",
+            "_qty": 1,
+            "_subtotal": 0.55
+        },
+        {
+            "_ingredientName": "meat",
+            "_qty": 2,
+            "_subtotal": 3
+        },
+        {
+            "_ingredientName": "bacon",
+            "_qty": 0,
+            "_subtotal": 0
+        }
+    ],
+    "_ingredientsOrder": [
+        "meat",
+        "salad",
+        "salad",
+        "cheese",
+        "tomato",
+        "meat"
+    ],
+    "_total": 5.55
+}
